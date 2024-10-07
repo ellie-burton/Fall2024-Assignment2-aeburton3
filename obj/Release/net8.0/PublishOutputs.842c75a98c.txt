@@ -1,0 +1,7 @@
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-aeburton3.exe
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-aeburton3.dll
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-aeburton3.deps.json
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-aeburton3.runtimeconfig.json
+C:\Users\ekate\Documents\GitHub\Fall2024-Assignment2-aeburton3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-aeburton3.pdb
